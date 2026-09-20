@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data
+generated
+config
+.reticulum
+.Trash-1000
+config.py
